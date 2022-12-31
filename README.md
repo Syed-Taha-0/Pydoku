@@ -10,7 +10,6 @@ Upon launch, the app should generate a completely random board of sudoku. The ga
 custom and hand-made by me. The board renders the default generated numbers in a darker colour so as to make
 it less confusing for the player. The app won't allow the player to override the default generated digits on the
 board, although, the player may override/erase digits entered by them.
-<br>
 
 ![Game Screenshot](Screenshots/screenshot_01.png)
 
