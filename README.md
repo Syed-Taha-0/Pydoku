@@ -11,7 +11,7 @@ custom and hand-made by me. The board renders the default generated numbers in a
 it less confusing for the player. The app won't allow the player to override the default generated digits on the
 board, although, the player may override/erase digits entered by them.
 <br>
-<img src="Screenshots/screenshot_01.png">
+<img src="Screenshots/screenshot_01.png" />
 ### How to build
 
 It's best to use a virutal environment of some kind to run this game. The one I used while building the project is `virtualenv`.
