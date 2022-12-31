@@ -11,7 +11,8 @@ custom and hand-made by me. The board renders the default generated numbers in a
 it less confusing for the player. The app won't allow the player to override the default generated digits on the
 board, although, the player may override/erase digits entered by them.
 <br>
-<img src="https://github.com/Syed-Taha-0/Pydoku/blob/a966714d3b2411fa3a7efa5a8171f0c580681b21/Screenshots/screenshot_01.png" />
+![Game Screenshot](Screenshots/screenshot_01.png?raw=true "Title")
+
 ### How to build
 
 It's best to use a virutal environment of some kind to run this game. The one I used while building the project is `virtualenv`.
